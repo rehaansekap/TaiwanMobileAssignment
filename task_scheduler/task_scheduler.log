@@ -1,0 +1,7 @@
+2026-10-05 14:17:58 | INFO     | task_scheduler.main            | Actions registered: ['sync', 'backup', 'delete']
+2026-10-05 14:17:58 | INFO     | task_scheduler.main            | Scheduler ready: Scheduler(tasks=4, poll_interval=30s)
+2026-10-05 14:17:58 | INFO     | task_scheduler.main            | ============================================================
+2026-10-05 14:17:58 | INFO     | task_scheduler.main            | Task Scheduler started.
+2026-10-05 14:17:58 | INFO     | task_scheduler.main            | ============================================================
+2026-10-05 14:17:58 | INFO     | task_scheduler.main            | run_once() processed 4 task(s).
+2026-10-05 14:17:58 | INFO     | task_scheduler.main            | Status summary: {'total': 4, 'by_status': {'done': 4}}
